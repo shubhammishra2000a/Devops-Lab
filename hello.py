@@ -1,1 +1,2 @@
-print("Helloo Devops ")
+print("Helloo Devops ") 
+print("NO way ")
